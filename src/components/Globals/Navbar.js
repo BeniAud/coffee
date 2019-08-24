@@ -6,7 +6,7 @@ import { FaCartArrowDown } from "react-icons/fa"
 export default class Navbar extends Component {
   state = {
     navbarOpen: false,
-    css: "collapse navbar-collapse",
+    css: "collapse navbar-collapse ",
     links: [
       {
         id: 1,
