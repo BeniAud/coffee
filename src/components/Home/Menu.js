@@ -33,6 +33,7 @@ export default class Menu extends Component {
       this.setState(() => {
         return { coffeeItems: items }
       })
+      console.log("coffeeItems", { coffeeItems: items })
     }
   }
   render() {
