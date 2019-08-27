@@ -1,3 +1,10 @@
+https://https://coffee-shop-gatsby-project.netlify.com/
+
+GATSBY -CONTENTFUL - SNIPCART - FORMSPREE
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
