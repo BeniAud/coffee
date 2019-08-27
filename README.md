@@ -1,4 +1,4 @@
-https://https://coffee-shop-gatsby-project.netlify.com/
+https://coffee-shop-gatsby-project.netlify.com/
 
 GATSBY -CONTENTFUL - SNIPCART - FORMSPREE
 
